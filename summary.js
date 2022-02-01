@@ -30,3 +30,10 @@ var secondNumber=40;
 var thirdNumber=56;
 var result =addThreeNumber(firstNumber, secondNumber, thirdNumber);
 console.log(result);
+
+// object 
+var phone={
+    brand:'Samsang',
+    price:21000,
+    color: gray,
+}
